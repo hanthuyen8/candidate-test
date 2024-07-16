@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9f0ba87d_002D42fe_002D40f0_002D91ac_002D49ba7bbe5e53/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::6493EC63-EFB6-4DC8-8487-B8F696A32008::net8.0::Tests.Tests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::6493EC63-EFB6-4DC8-8487-B8F696A32008::net8.0::Tests.VisitorCounterTests.Test&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::6493EC63-EFB6-4DC8-8487-B8F696A32008::net8.0::Tests.VisitorCounterTests.TestS&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::6493EC63-EFB6-4DC8-8487-B8F696A32008::net8.0::Tests.PersonNameList.NotAllowDuplicationTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::6493EC63-EFB6-4DC8-8487-B8F696A32008::net8.0::Tests.PersonNameList.NotAllowDuplicationList&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::6493EC63-EFB6-4DC8-8487-B8F696A32008::net8.0::Tests.PersonNameList.AllowDuplicationList&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::6493EC63-EFB6-4DC8-8487-B8F696A32008::net8.0::Tests.WhatWrong.Test&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::6493EC63-EFB6-4DC8-8487-B8F696A32008::net8.0::Tests.WhatWrong&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
